@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {background-color:#f9f9f9;}
+            a { text-decoration: none; }
+            h1 {clear: both;}
+            .uri {width:100%;background-color:}
+            .uri li { width:15%;height:40px;padding:15px;font-size:9pt;list-style-type:none;float:left;margin-bottom:15px;margin-right:30px;border:1px solid #e4ecf3;background-color:#fff;color:#2c2e2f;font-weight:bold;}
+            .uri img { width:40px;height:40px;margin-right:10pt;vertical-align:middle;}
+        </style>       
+    </head>
+    <body>
+        <content id='concent'> Mylink </content>
+    </body>
+    <script type="text/javascript" src="js/yaml.min.js"></script>
+    <script>
+        nativeObject = YAML.load('uri.yaml');
+        var myDom = document.getElementById("concent");
+        list = '';
+        for (var i in nativeObject) {
+            list += '<h1>'+i+'</h1><hr /><ul class="uri">';
+            for (var j in nativeObject[i]) {
+                list += "<a href='"+nativeObject[i][j][0]+"' target='_blank'><li><img src='./logos/"+nativeObject[i][j][1]+"' />"+j+"</li></a>";
+            };
+            list += '</ul>';
+        };
+        myDom.innerHTML = list;
+        // nativeObject = YAML.parse();
+        // console.log ();
+    </script>
+</html>
