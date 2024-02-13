@@ -13,17 +13,17 @@
     <body>
         <content id='concent'> Mylink </content>
     </body>
-    <script type="text/javascript" src="js/yaml.min.js"></script>
+    <script type="text/javascript" src="https://nav.cnkmmk.eu.org/js/yaml.min.js"></script>
     <script>
         //nativeObject = YAML.load('uri.yaml');
-        nativeObject = YAML.load('https://raw.githubusercontent.com/cnkmmk/cnkmmk_nav/main/uri.yaml');
+        nativeObject = YAML.load('https://nav.cnkmmk.eu.org/uri.yaml');
         var myDom = document.getElementById("concent");
         list = '';
         for (var i in nativeObject) {
             list += '<h1>'+i+'</h1><hr /><ul class="uri">';
             for (var j in nativeObject[i]) {
                 //list += "<a href='"+nativeObject[i][j][0]+"' target='_blank'><li><img src='./logos/"+nativeObject[i][j][1]+"' />"+j+"</li></a>";
-                list += "<a href='"+nativeObject[i][j][0]+"' target='_blank'><li><img src='https://raw.githubusercontent.com/cnkmmk/cnkmmk_nav/main/logos/"+nativeObject[i][j][1]+"' />"+j+"</li></a>";
+                list += "<a href='"+nativeObject[i][j][0]+"' target='_blank'><li><img src='https://nav.cnkmmk.eu.org/logos/"+nativeObject[i][j][1]+"' />"+j+"</li></a>";
             };
             list += '</ul>';
         };
