@@ -166,3 +166,7 @@
     breezy-weather:
         - https://github.com/breezy-weather/breezy-weather
         - breezy-weather.jpg
+
+    sing-box:
+        - https://github.com/SagerNet/sing-box
+        - sing-box.jpg
