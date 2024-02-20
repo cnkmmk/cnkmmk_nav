@@ -2,10 +2,6 @@
     ungoogled-chromium: 
         - https://github.com/ungoogled-software/ungoogled-chromium
         - chromium.png
-        
-    mergerfs: 
-        - https://github.com/trapexit/mergerfs
-        - github.png
    
     rustdesk-server: 
         - https://github.com/rustdesk/rustdesk-server
@@ -18,10 +14,6 @@
     obsidian-releases: 
         - https://github.com/obsidianmd/obsidian-releases
         - obsidian.png
-    
-    兰空图床: 
-        - https://github.com/lsky-org/lsky-pro
-        - lsky.png
     
     Waterfox: 
         - https://github.com/WaterfoxCo/Waterfox
@@ -87,14 +79,6 @@
         - https://github.com/syncthing/syncthing
         - syncthing.png
     
-    naiveproxy: 
-        - https://github.com/klzgrad/naiveproxy
-        - github.png
-    
-    Xray-core: 
-        - https://github.com/XTLS/Xray-core
-        - Xray-core.png
-    
     Caddy: 
         - https://github.com/caddyserver/caddy
         - caddy.png
@@ -131,10 +115,6 @@
         - https://desktop.telegram.org/
         - telegram.png
         
-    Hysteria:
-        - https://v2.hysteria.network/zh/
-        - hysteria.png
-        
     HandBreak:
         - https://github.com/HandBrake/HandBrake
         - handbreak.png
@@ -146,10 +126,6 @@
     Aria2:
         - https://github.com/aria2/aria2
         - aria2.png
-
-    云编译OpenWrt:
-        - https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1
-        - openwrtai.jpg
     
     DBeaver Community:
         - https://github.com/dbeaver/dbeaver
@@ -163,11 +139,36 @@
         - https://github.com/breezy-weather/breezy-weather
         - breezy-weather.jpg
 
-    sing-box:
-        - https://github.com/SagerNet/sing-box
-        - sing-box.jpg
-
 不常用软件:
     koodo-reader: 
         - https://github.com/troyeguo/koodo-reader
         - koodo.png
+
+    云编译OpenWrt:
+        - https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1
+        - openwrtai.jpg
+    
+    兰空图床: 
+        - https://github.com/lsky-org/lsky-pro
+        - lsky.png
+        
+    mergerfs: 
+        - https://github.com/trapexit/mergerfs
+        - github.png
+
+代理软件:
+    sing-box:
+        - https://github.com/SagerNet/sing-box
+        - sing-box.jpg
+    
+    naiveproxy: 
+        - https://github.com/klzgrad/naiveproxy
+        - github.png
+    
+    Xray-core: 
+        - https://github.com/XTLS/Xray-core
+        - Xray-core.png
+        
+    Hysteria:
+        - https://v2.hysteria.network/zh/
+        - hysteria.png
