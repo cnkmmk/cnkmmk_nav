@@ -23,6 +23,7 @@ jobs:
       run: |
         echo "Pushing to gitee.com"
         git remote -v
-        #git remote rm origin
+        git remote rm origin
+        git remote -v
         #git remote add origin 'https://${{ secrets.GIT_USERNAME }}:${{ secrets.GIT_PASSWORD }}@gitee.com/${{ secrets.USER_NAME }}/repo.git'
         #git push origin main #默认 push mian分支
