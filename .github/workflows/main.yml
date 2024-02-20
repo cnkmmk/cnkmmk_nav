@@ -1,0 +1,26 @@
+name: Backup-github-repo
+
+on: push //默认在 push 时触发
+
+jobs: 
+  backup-github-repo:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with: 
+        fetch-depth: 0
+    
+    - name: Setup SSH
+      run: |
+        mkdir -p ~/.ssh/
+        echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan gitee.com >> ~/.ssh/known_hosts //配置 ssh 密钥，此处的 Target-git-server.com 要修改为你目标 git 服务器的主机名
+    
+    - name: push to gitee.com
+      run: |
+        echo "Pushing to gitee.com"
+        git remote add origin https://${{ secrets.GIT_USERNAME }}:${{ secrets.GIT_PASSWORD }}@target-git-server.com/${{ secrets.USER_NAME }}/repo.git
+        git push origin main //默认 push mian分支
