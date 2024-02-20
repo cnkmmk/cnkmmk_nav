@@ -138,6 +138,10 @@
     breezy-weather:
         - https://github.com/breezy-weather/breezy-weather
         - breezy-weather.jpg
+        
+    Fira Code:
+        - https://github.com/tonsky/FiraCode
+        - FiraCode.png
 
 不常用软件:
     koodo-reader: 
