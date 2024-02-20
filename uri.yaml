@@ -6,11 +6,7 @@
     mergerfs: 
         - https://github.com/trapexit/mergerfs
         - github.png
-        
-    koodo-reader: 
-        - https://github.com/troyeguo/koodo-reader
-        - koodo.png
-        
+   
     rustdesk-server: 
         - https://github.com/rustdesk/rustdesk-server
         - rustdesk.png
@@ -170,3 +166,8 @@
     sing-box:
         - https://github.com/SagerNet/sing-box
         - sing-box.jpg
+
+不常用软件:
+    koodo-reader: 
+        - https://github.com/troyeguo/koodo-reader
+        - koodo.png
