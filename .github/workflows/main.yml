@@ -32,7 +32,7 @@ jobs:
       with:
           # 注意替换为你的 Gitee 用户名
           gitee-username: cnkmmk
-          # 注意在 Settings->Secrets 配置 GITEE_PASSWORD
-          gitee-password: ${{ secrets.GITEE_PASSWORD }}
+          # 注意在 Settings->Secrets 配置 GIT_PASSWORD
+          gitee-password: ${{ secrets.GIT_PASSWORD }}
           # 注意替换为你的 Gitee 仓库
           gitee-repo: cnkmmk/cnkmmk_nav
