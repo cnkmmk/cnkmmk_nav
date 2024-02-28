@@ -138,6 +138,10 @@
     gkd:
         - https://github.com/gkd-kit/gkd
         - gkd.jpg
+        
+    floorp:
+        - https://github.com/Floorp-Projects/Floorp
+        - floorp.png
 
 不常用软件:
     koodo-reader: 
