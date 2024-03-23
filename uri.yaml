@@ -150,6 +150,10 @@
     mergerfs: 
         - https://github.com/trapexit/mergerfs
         - github.png
+        
+    Librewolf:
+        - https://librewolf.net
+        - librewolf.png
 
 留意软件:
     koodo-reader: 
