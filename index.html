@@ -18,25 +18,23 @@
     </body>
     <script type="text/javascript" src="js/yaml.min.js"></script>
     <script>
-        nativeObject = YAML.load('uri.yaml');
-        var myDom = document.getElementById("concent");
-        list = '<ul id="top_column">';
-        item = '<div id="bottom_column">';
-        for (var i in nativeObject) {
-            list += "<li>"+i+"</li>";
-            item += "<ul class='uri'>";
-            for (var j in nativeObject[i]) {
-                item += "<a href='"+nativeObject[i][j][0]+"' target='_blank'><li><img src='./logos/"+nativeObject[i][j][1]+"' />"+j+"</li></a>";
-            };
-            item += "</ul>";
-        };
-        list += '</ul>';
-        
-        myDom.innerHTML = list+item+'</div>';
-    </script>
-	<script type="text/javascript">
-		window.onload=tab;
-		function tab(){
+		window.onload=oni;
+    	function oni(){
+        	nativeObject = YAML.load('uri.yaml');
+        	var myDom = document.getElementById("concent");
+        	list = '<ul id="top_column">';
+        	itema = '<div id="bottom_column">';
+        	for (var i in nativeObject) {
+        	    list += "<li>"+i+"</li>";
+        	    itema += "<ul class='uri'>";
+        	    for (var j in nativeObject[i]) {
+        	        itema += "<a href='"+nativeObject[i][j][0]+"' target='_blank'><li><img src='./logos/"+nativeObject[i][j][1]+"' />"+j+"</li></a>";
+        	    };
+        	    itema += "</ul>";
+        	};
+        	list += '</ul>';
+        	myDom.innerHTML = list+itema+'</div>';
+
 			var top_column=document.getElementById("top_column").getElementsByTagName("li");
 			var bottom_column=document.getElementById("bottom_column").getElementsByTagName("ul");
 
