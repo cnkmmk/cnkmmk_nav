@@ -156,6 +156,10 @@
         - dishes.png
 
 留意软件:
+    awesome-selfhosted:
+        - https://github.com/awesome-selfhosted/awesome-selfhosted
+        - awesome-selfhosted.png
+
     koodo-reader: 
         - https://github.com/troyeguo/koodo-reader
         - koodo.png
