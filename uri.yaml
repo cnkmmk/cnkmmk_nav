@@ -87,10 +87,6 @@
         - https://github.com/mltframework/shotcut
         - shotcut.png
     
-    Lucy:
-        - https://www.yuque.com/lucy/lucy
-        - lucy.png
-
     Nova_Video_Player:
         - https://github.com/nova-video-player/aos-AVP
         - nova_video_player.png 
@@ -155,6 +151,10 @@
         - https://librewolf.net
         - librewolf.png
 
+    Dishes:
+        - https://github.com/Monoxide/dishes
+        - dishes.png
+
 留意软件:
     koodo-reader: 
         - https://github.com/troyeguo/koodo-reader
@@ -167,6 +167,10 @@
     兰空图床: 
         - https://github.com/lsky-org/lsky-pro
         - lsky.png
+        
+    Lucy:
+        - https://www.yuque.com/lucy/lucy
+        - lucy.png
 
 代理软件:
     sing-box:
