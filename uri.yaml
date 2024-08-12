@@ -1,8 +1,4 @@
 关注软件:
-    ungoogled-chromium: 
-        - https://github.com/ungoogled-software/ungoogled-chromium
-        - chromium.png
-   
     rustdesk-server: 
         - https://github.com/rustdesk/rustdesk-server
         - rustdesk.png
@@ -15,10 +11,6 @@
         - https://github.com/obsidianmd/obsidian-releases
         - obsidian.png
     
-    Waterfox: 
-        - https://github.com/WaterfoxCo/Waterfox
-        - waterfox.png
-        
     阅读: 
         - https://github.com/gedoor/legado
         - legado.png
@@ -135,10 +127,6 @@
         - https://github.com/gkd-kit/gkd
         - gkd.jpg
         
-    floorp:
-        - https://github.com/Floorp-Projects/Floorp
-        - floorp.png
-        
     冰凌五笔:
         - https://www.icesofts.com/
         - icesofts.png
@@ -147,10 +135,6 @@
         - https://github.com/trapexit/mergerfs
         - github.png
         
-    Librewolf:
-        - https://librewolf.net
-        - librewolf.png
-
     Dishes:
         - https://github.com/Monoxide/dishes
         - dishes.png
@@ -213,3 +197,28 @@
     Docker — 从入门到实践:
         - https://github.com/yeasy/docker_practice
         - docker_practice.png
+
+浏览器:
+    Firefox:
+        - http://ftp.mozilla.org/pub/firefox/releases/
+        - Firefox.png
+    
+    ungoogled-chromium: 
+        - https://github.com/ungoogled-software/ungoogled-chromium
+        - chromium.png
+
+    Waterfox: 
+        - https://github.com/WaterfoxCo/Waterfox
+        - waterfox.png
+
+    floorp:
+        - https://github.com/Floorp-Projects/Floorp
+        - floorp.png
+
+    Librewolf:
+        - https://librewolf.net
+        - librewolf.png
+
+    Google Chrome:
+        - https://www.google.com/intl/en/chrome/?standalone=1
+        - chrome.png
