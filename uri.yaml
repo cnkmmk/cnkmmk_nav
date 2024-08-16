@@ -39,10 +39,6 @@
         - https://github.com/yangxu52/Phicomm-K2P-K3-OpenWrt-Firmware
         - K3.png
     
-    listen1_desktop: 
-        - https://github.com/listen1/listen1_desktop
-        - listen1_desktop.png
-    
     DesktopNaotu: 
         - https://github.com/NaoTu/DesktopNaotu
         - DesktopNaotu.png
@@ -111,10 +107,6 @@
         - https://github.com/dbeaver/dbeaver
         - beaver.png
 
-    DbGate:
-        - https://github.com/dbgate/dbgate
-        - DbGate.jpg
-
     breezy-weather:
         - https://github.com/breezy-weather/breezy-weather
         - breezy-weather.jpg
@@ -145,6 +137,14 @@
 
     lx-source:
         - https://github.com/ZxwyWebSite/lx-source
+        - github.png
+
+    lx-Music:
+        - https://github.com/lyswhut/lx-music-desktop
+        - lx-Music.png
+
+    easy-service:
+        - https://github.com/pandolia/easy-service
         - github.png
 
 留意软件:
