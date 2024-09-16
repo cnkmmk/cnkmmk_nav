@@ -203,6 +203,10 @@
         - docker_practice.png
 
 浏览器:
+    Zen:
+        - https://zen-browser.app/
+        - zen.png
+        
     Firefox:
         - http://ftp.mozilla.org/pub/firefox/releases/
         - Firefox.png
