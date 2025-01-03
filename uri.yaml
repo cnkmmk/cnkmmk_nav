@@ -172,6 +172,10 @@
         - https://hellowindows.cn/
         - microsoft.png
 
+    immich:
+        - https://github.com/immich-app/immich
+        - immich.jpg
+
 代理软件:
     sing-box:
         - https://github.com/SagerNet/sing-box
