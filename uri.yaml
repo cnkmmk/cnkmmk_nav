@@ -7,10 +7,6 @@
         - https://github.com/rustdesk/rustdesk
         - rustdesk.png
     
-    obsidian-releases: 
-        - https://github.com/obsidianmd/obsidian-releases
-        - obsidian.png
-    
     阅读: 
         - https://github.com/gedoor/legado
         - legado.png
@@ -147,6 +143,10 @@
         - https://github.com/donknap/dpanel
         - dpanel.jpg
 
+    Logseq:
+        - https://github.com/logseq/logseq
+        - logseq.png
+
 留意软件:
     awesome-selfhosted:
         - https://github.com/awesome-selfhosted/awesome-selfhosted
@@ -179,6 +179,10 @@
     immich:
         - https://github.com/immich-app/immich
         - immich.jpg
+    
+    obsidian-releases: 
+        - https://github.com/obsidianmd/obsidian-releases
+        - obsidian.png
 
 代理软件:
     sing-box:
