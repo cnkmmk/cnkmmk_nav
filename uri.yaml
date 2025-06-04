@@ -31,8 +31,8 @@
         - https://github.com/kingToolbox/WindTerm
         - windterm.png
     
-    K3-OpenWrt: 
-        - https://github.com/yangxu52/Phicomm-K2P-K3-OpenWrt-Firmware
+    immortalwrt: 
+        - https://github.com/immortalwrt/immortalwrt
         - K3.png
     
     DesktopNaotu: 
@@ -191,6 +191,10 @@
     Cudatext:
         - https://cudatext.github.io/
         - Cudatext.png
+
+    shawl:
+        - https://github.com/mtkennerly/shawl
+        - shawl.jpg
 
 代理软件:
     sing-box:
