@@ -79,10 +79,6 @@
         - https://github.com/VSCodium/vscodium
         - vscodium.png
 
-    Cudatext:
-        - https://cudatext.github.io/
-        - Cudatext.png
-
     Telegram:
         - https://desktop.telegram.org/
         - telegram.png
@@ -147,6 +143,14 @@
         - https://github.com/logseq/logseq
         - logseq.png
 
+    readest:
+        - https://github.com/readest/readest
+        - readest.png
+
+    Notepad3:
+        - https://github.com/rizonesoft/Notepad3
+        - Notepad3.png
+
 留意软件:
     awesome-selfhosted:
         - https://github.com/awesome-selfhosted/awesome-selfhosted
@@ -183,6 +187,10 @@
     obsidian-releases: 
         - https://github.com/obsidianmd/obsidian-releases
         - obsidian.png
+
+    Cudatext:
+        - https://cudatext.github.io/
+        - Cudatext.png
 
 代理软件:
     sing-box:
@@ -224,7 +232,7 @@
         - Firefox.png
     
     ungoogled-chromium: 
-        - https://github.com/ungoogled-software/ungoogled-chromium
+        - https://github.com/ungoogled-software/ungoogled-chromium-windows
         - chromium.png
 
     Waterfox: 
