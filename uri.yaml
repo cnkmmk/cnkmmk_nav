@@ -11,6 +11,10 @@
         - https://github.com/gedoor/legado
         - legado.png
 
+	Vim:
+		- https://github.com/vim/vim-win32-installer
+		- vim.png
+
     Lychee: 
         - https://github.com/LycheeOrg/Lychee
         - Lychee.png
