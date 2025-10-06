@@ -71,10 +71,6 @@
         - https://github.com/mltframework/shotcut
         - shotcut.png
     
-    Nova_Video_Player:
-        - https://github.com/nova-video-player/aos-AVP
-        - nova_video_player.png 
-
     VSCodium:
         - https://github.com/VSCodium/vscodium
         - vscodium.png
@@ -151,6 +147,10 @@
         - https://gitee.com/cxasm/notepad-- 
         - ndd.jpg
 
+    vimuplayer:
+        - https://www.vimu.tv/
+        - vimuplayer.jpg
+
 留意软件:
     awesome-selfhosted:
         - https://github.com/awesome-selfhosted/awesome-selfhosted
@@ -195,6 +195,10 @@
     shawl:
         - https://github.com/mtkennerly/shawl
         - shawl.jpg
+
+    Nova_Video_Player:
+        - https://github.com/nova-video-player/aos-AVP
+        - nova_video_player.png 
 
 代理软件:
     sing-box:
