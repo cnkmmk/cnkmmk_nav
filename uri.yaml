@@ -111,10 +111,6 @@
         - https://github.com/gkd-kit/gkd
         - gkd.jpg
         
-    冰凌五笔:
-        - https://www.icesofts.com/
-        - icesofts.png
-        
     mergerfs: 
         - https://github.com/trapexit/mergerfs
         - github.png
@@ -154,6 +150,10 @@
     vimuplayer:
         - https://www.vimu.tv/
         - vimuplayer.jpg
+
+    中州韵输入法引擎:
+        - https://rime.im/
+        - rime.png
 
 留意软件:
     awesome-selfhosted:
@@ -203,6 +203,10 @@
     Nova_Video_Player:
         - https://github.com/nova-video-player/aos-AVP
         - nova_video_player.png 
+
+    冰凌五笔:
+        - https://www.icesofts.com/
+        - icesofts.png
 
 代理软件:
     sing-box:
