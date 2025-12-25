@@ -119,21 +119,9 @@
         - https://github.com/Monoxide/dishes
         - dishes.png
 
-    lx-source:
-        - https://github.com/ZxwyWebSite/lx-source
-        - github.png
-
-    lx-Music:
-        - https://github.com/lyswhut/lx-music-desktop
-        - lx-Music.png
-
     easy-service:
         - https://github.com/pandolia/easy-service
         - github.png
-
-    dpanel:
-        - https://github.com/donknap/dpanel
-        - dpanel.jpg
 
     Logseq:
         - https://github.com/logseq/logseq
@@ -156,30 +144,6 @@
         - rime.png
 
 留意软件:
-    awesome-selfhosted:
-        - https://github.com/awesome-selfhosted/awesome-selfhosted
-        - awesome-selfhosted.png
-
-    Awesome Cloudflare:
-        - https://github.com/zhuima/awesome-cloudflare
-        - awesome-cloudflare.jpg
-
-    koodo-reader: 
-        - https://github.com/troyeguo/koodo-reader
-        - koodo.png
-
-    云编译OpenWrt:
-        - https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1
-        - openwrtai.jpg
-    
-    兰空图床: 
-        - https://github.com/lsky-org/lsky-pro
-        - lsky.png
-        
-    Lucy:
-        - https://www.yuque.com/lucy/lucy
-        - lucy.png
-
     hellowindows:
         - https://hellowindows.cn/
         - microsoft.png
@@ -192,17 +156,9 @@
         - https://github.com/obsidianmd/obsidian-releases
         - obsidian.png
 
-    Cudatext:
-        - https://cudatext.github.io/
-        - Cudatext.png
-
     shawl:
         - https://github.com/mtkennerly/shawl
         - shawl.jpg
-
-    Nova_Video_Player:
-        - https://github.com/nova-video-player/aos-AVP
-        - nova_video_player.png 
 
     冰凌五笔:
         - https://www.icesofts.com/
@@ -237,6 +193,14 @@
     Docker — 从入门到实践:
         - https://github.com/yeasy/docker_practice
         - docker_practice.png
+
+    awesome-selfhosted:
+        - https://github.com/awesome-selfhosted/awesome-selfhosted
+        - awesome-selfhosted.png
+
+    Awesome Cloudflare:
+        - https://github.com/zhuima/awesome-cloudflare
+        - awesome-cloudflare.jpg
 
 浏览器:
     Zen:
