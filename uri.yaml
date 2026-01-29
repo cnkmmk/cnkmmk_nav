@@ -135,6 +135,10 @@
         - https://github.com/cxasm/notepad--
         - ndd.jpg
 
+    Nova_Video_Player:
+        - https://github.com/nova-video-player/aos-AVP
+        - nova_video_player.png 
+
     vimuplayer:
         - https://www.vimu.tv/
         - vimuplayer.jpg
