@@ -210,6 +210,10 @@
     Zen:
         - https://zen-browser.app/
         - zen.png
+
+    Brave:
+        - https://github.com/brave/brave-browser
+        - Brave.png
         
     Firefox:
         - http://ftp.mozilla.org/pub/firefox/releases/
