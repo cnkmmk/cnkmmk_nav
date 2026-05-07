@@ -35,10 +35,6 @@
         - https://github.com/kingToolbox/WindTerm
         - windterm.png
     
-    immortalwrt: 
-        - https://github.com/immortalwrt/immortalwrt
-        - K3.png
-    
     DesktopNaotu: 
         - https://github.com/NaoTu/DesktopNaotu
         - DesktopNaotu.png
@@ -58,10 +54,6 @@
     Baikal: 
         - https://github.com/sabre-io/Baikal
         - baikal.png
-    
-    RSSHub: 
-        - https://github.com/DIYgod/RSSHub
-        - rsshub.png
     
     Syncthing: 
         - https://github.com/syncthing/syncthing
@@ -127,10 +119,6 @@
         - https://github.com/logseq/logseq
         - logseq.png
 
-    reeden:
-        - https://reeden.app/cn
-        - reeden.png
-
     Notepad--:
         - https://github.com/cxasm/notepad--
         - ndd.jpg
@@ -150,6 +138,10 @@
     migu_video:
         - https://github.com/develop202/migu_video
         - migu_video.png
+
+    readest:
+        - https://github.com/readest/readest
+        - readest.png
 
 留意软件:
     hellowindows:
@@ -172,6 +164,18 @@
         - https://www.icesofts.com/
         - icesofts.png
 
+    reeden:
+        - https://reeden.app/cn
+        - reeden.png
+
+    RSSHub: 
+        - https://github.com/DIYgod/RSSHub
+        - rsshub.png
+    
+    immortalwrt: 
+        - https://github.com/immortalwrt/immortalwrt
+        - K3.png
+    
 代理软件:
     sing-box:
         - https://github.com/SagerNet/sing-box
@@ -188,6 +192,10 @@
     Hysteria:
         - https://github.com/apernet/hysteria
         - hysteria.png
+
+    v2rayN:
+        - https://github.com/2dust/v2rayN
+        - v2rayN.png
 
 学习:
     深入架构原理与实践:
