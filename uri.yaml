@@ -111,9 +111,9 @@
         - https://github.com/Monoxide/dishes
         - dishes.png
 
-    easy-service:
-        - https://github.com/pandolia/easy-service
-        - github.png
+    shawl:
+        - https://github.com/mtkennerly/shawl
+        - shawl.jpg
 
     Logseq:
         - https://github.com/logseq/logseq
@@ -150,6 +150,10 @@
     WinSSHTerm:
         - https://github.com/WinSSHTerm/WinSSHTerm
         - WinSSHTerm.png
+		
+	sidex:
+		- https://github.com/Sidenai/sidex
+		- github.png
 
 留意软件:
     hellowindows:
@@ -164,9 +168,7 @@
         - https://github.com/obsidianmd/obsidian-releases
         - obsidian.png
 
-    shawl:
-        - https://github.com/mtkennerly/shawl
-        - shawl.jpg
+
 
     冰凌五笔:
         - https://www.icesofts.com/
@@ -183,6 +185,10 @@
     immortalwrt: 
         - https://github.com/immortalwrt/immortalwrt
         - K3.png
+		
+    easy-service:
+        - https://github.com/pandolia/easy-service
+        - github.png
     
 代理软件:
     sing-box:
