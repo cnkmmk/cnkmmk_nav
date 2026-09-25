@@ -150,10 +150,10 @@
     WinSSHTerm:
         - https://github.com/WinSSHTerm/WinSSHTerm
         - WinSSHTerm.png
-		
-	sidex:
-		- https://github.com/Sidenai/sidex
-		- github.png
+
+    sidex:
+        - https://github.com/Sidenai/sidex
+        - github.png
 
 留意软件:
     hellowindows:
@@ -167,8 +167,6 @@
     obsidian-releases: 
         - https://github.com/obsidianmd/obsidian-releases
         - obsidian.png
-
-
 
     冰凌五笔:
         - https://www.icesofts.com/
@@ -185,7 +183,7 @@
     immortalwrt: 
         - https://github.com/immortalwrt/immortalwrt
         - K3.png
-		
+
     easy-service:
         - https://github.com/pandolia/easy-service
         - github.png
