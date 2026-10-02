@@ -86,10 +86,10 @@
     Aria2:
         - https://github.com/aria2/aria2
         - aria2.png
-    
-    DBeaver Community:
-        - https://github.com/dbeaver/dbeaver
-        - beaver.png
+        
+    DBX:
+        - https://github.com/t8y2/dbx
+        - dbx.png
 
     breezy-weather:
         - https://github.com/breezy-weather/breezy-weather
@@ -187,6 +187,10 @@
     easy-service:
         - https://github.com/pandolia/easy-service
         - github.png
+    
+    DBeaver Community:
+        - https://github.com/dbeaver/dbeaver
+        - beaver.png
     
 代理软件:
     sing-box:
