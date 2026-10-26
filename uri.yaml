@@ -159,6 +159,14 @@
         - https://github.com/storytold/photocraft
         - photocraft.jxl
 
+    wordcraft:
+        - https://github.com/storytold/wordcraft
+        - photocraft.jxl
+
+    gridcraft:
+        - https://github.com/storytold/gridcraft
+        - photocraft.jxl
+
 留意软件:
     hellowindows:
         - https://hellowindows.cn/
