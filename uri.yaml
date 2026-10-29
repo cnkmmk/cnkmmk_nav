@@ -151,9 +151,7 @@
         - https://github.com/WinSSHTerm/WinSSHTerm
         - WinSSHTerm.png
 
-    sidex:
-        - https://github.com/Sidenai/sidex
-        - github.png
+
 
     photocraft:
         - https://github.com/storytold/photocraft
@@ -166,6 +164,10 @@
     gridcraft:
         - https://github.com/storytold/gridcraft
         - photocraft.jxl
+
+    keepass:
+        - https://keepass.info/
+        - keepass.jxl
 
 留意软件:
     hellowindows:
@@ -203,6 +205,10 @@
     DBeaver Community:
         - https://github.com/dbeaver/dbeaver
         - beaver.png
+
+    sidex:
+        - https://github.com/Sidenai/sidex
+        - github.png
     
 代理软件:
     sing-box:
